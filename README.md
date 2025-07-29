@@ -19,5 +19,9 @@ This project enables two parties to safely exchange SPL tokens using an on-chain
 
 [Q3_Solana_Builders_Solana-Anchor-Marketplace](https://github.com/tothemoon023/Q3_Anchor-Marketplace): A secure, production-ready NFT marketplace on Solana using Anchor framework. Features PDA-based escrow, automatic fee distribution, atomic transactions, and comprehensive documentation with flow diagrams. Includes modular instruction handlers for listing, purchasing, and delisting NFTs, plus complete test suite and deployment scripts. Perfect for developers building NFT platforms or learning Solana development.
 
+[Q3_Solana_Builders_Solana-Anchor-Dice](https://github.com/tothemoon023/Q3_Solana_Anchor-dice):Anchor Dice is a provably fair dice betting game on Solana where players predict numbers (2-96) and win if a random roll (1-100) is less than their prediction. Uses Ed25519 signatures for verifiable randomness, 1.5% house edge, 0.01-10 SOL betting range, and automatic refunds after timeout. Built with Anchor framework for secure, transparent on-chain gambling.
+
+
+
 
 
