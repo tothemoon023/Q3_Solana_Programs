@@ -17,4 +17,7 @@ This project enables two parties to safely exchange SPL tokens using an on-chain
 
 [Q3_Solana_Builders_Solana-NFT-Staking](https://github.com/tothemoon023/Q3_Solana_NFT-Staking):A comprehensive Solana smart contract that enables NFT holders to stake their digital assets and earn reward tokens over time. Built with the Anchor framework and integrated with SPL Token and Metaplex protocols, it features secure NFT freezing mechanisms, configurable reward tokenomics, and production-ready security validations. The project includes over 500 lines of educational comments, visual flow diagrams, real-world implementation examples, and step-by-step guides that make it ideal for both learning Solana development and deploying commercial NFT staking systems. 
 
+[Q3_Solana_Builders_Solana-Anchor-Marketplace](https://github.com/tothemoon023/Q3_Anchor-Marketplace): A secure, production-ready NFT marketplace on Solana using Anchor framework. Features PDA-based escrow, automatic fee distribution, atomic transactions, and comprehensive documentation with flow diagrams. Includes modular instruction handlers for listing, purchasing, and delisting NFTs, plus complete test suite and deployment scripts. Perfect for developers building NFT platforms or learning Solana development.
+
+
 
