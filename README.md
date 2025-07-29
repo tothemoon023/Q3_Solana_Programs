@@ -21,6 +21,8 @@ This project enables two parties to safely exchange SPL tokens using an on-chain
 
 [Q3_Solana_Builders_Solana-Anchor-Dice](https://github.com/tothemoon023/Q3_Solana_Anchor-dice):Anchor Dice is a provably fair dice betting game on Solana where players predict numbers (2-96) and win if a random roll (1-100) is less than their prediction. Uses Ed25519 signatures for verifiable randomness, 1.5% house edge, 0.01-10 SOL betting range, and automatic refunds after timeout. Built with Anchor framework for secure, transparent on-chain gambling.
 
+[Q3_Solana_Builders_Solana-Magicblock-counter](https://github.com/tothemoon023/Q3_Solana_Magicblock-counter):MagicBlock Counter is a Solana program built with Anchor that demonstrates ephemeral rollups integration for scalable blockchain applications. Features persistent state management with PDA, secure delegation capabilities, atomic operations combining increment and commit/undelegate, and comprehensive documentation with visual flow diagrams. Perfect for learning Solana development with advanced features and understanding rollups implementation.
+
 
 
 
